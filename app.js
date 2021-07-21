@@ -6,5 +6,5 @@ app.get('/', function(req,res){
     </body></html>`);
 })
 app.listen(3000,()=>{
-    conl
+    console.log("start api");
 })
